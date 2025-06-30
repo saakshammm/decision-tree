@@ -46,6 +46,7 @@ Train and evaluate Decision Tree and Random Forest classifiers using the cleaned
 ## 📂 Files Included
 - `DT.ipynb` – main code file  
 - `cleaned_data.csv` – input dataset  
-- `decision_tree_plot_fixed.png` – saved plot image  
+- `decision_tree_plot_fixed.png` – saved plot image
+- `README.md` – Task description and summary
 
 ---
